@@ -1,0 +1,60 @@
+body{background:linear-gradient(#98FB98,#E0FFFF);}
+
+header{
+	width: 100%;
+	padding: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: linear-gradient( to right, green, white, green);
+	color: whitesmoke ;
+	box-sizing: border-box;
+	
+}
+
+img{
+	width: 100%;
+	height: 300px;
+	
+}
+
+h1{ background-image: linear-gradient( to right,white, green, white);
+	text-align: center;
+	color: black;
+	font-size: 40px;}
+
+p{ text-align:justify;
+		font-size:30px }
+
+
+
+.fotodescricão{
+	display: flex;
+	gap: 20px;
+	margin-top: 40px;}
+
+.logotipo{
+   width: 100%;
+   height: 5px;}
+			
+.fotodescricão{
+	width: 100%;}
+
+.foto1{
+	width: 100%;}
+
+.foto2{
+	width: 100%;}
+
+				
+footer{
+    bottom: 0;
+    background-image: linear-gradient( to right, green, white ); 
+    color: black;
+    width: 100%;
+    height: 100px;    
+    text-align: center;
+    line-height: 100px;
+    font-weight: bold;
+}
+
